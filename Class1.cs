@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Security;
 
-namespace tinter
+namespace TInter
 {
     public class TInter
     {
